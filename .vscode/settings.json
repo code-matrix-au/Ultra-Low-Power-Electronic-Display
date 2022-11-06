@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/lib/EPD_2in9_V2",
+    "idf.portWin": "COM4"
+}
